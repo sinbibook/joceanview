@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-23T02:50:33.923Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-04-23T03:03:35.091Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -1432,6 +1432,13 @@
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "5eb28752-f633-4f94-8491-c9ded5ac79e2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/reservation_hero/1776913410265-772aagz3px5.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
                   }
                 ]
               },
@@ -1476,7 +1483,7 @@
           {
             "id": "c3878d89-9416-4766-9b34-619558b2ea20",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/property_thumbnail/1776912444595-a0r6r7kg64.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_thumbnail"
@@ -1484,7 +1491,7 @@
           {
             "id": "4483d9cb-a93e-4d3e-b6a7-e1ebc6545cf2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/property_exterior/1776912444595-prbe6u0863.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1492,7 +1499,7 @@
           {
             "id": "f2d818df-68ed-4b20-b20e-2dc310531ecc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/property_exterior/1776912444595-1p9tq32ow25.jpg",
-            "sortOrder": 2,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
