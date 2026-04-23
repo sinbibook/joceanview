@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-23T05:42:38.212Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-23T09:05:51.268Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -1262,6 +1262,13 @@
               "essence": {
                 "title": "오션뷰와 마운틴뷰 객실에서 취향에 맞는 풍경을 즐기고, 바로 앞 물치해수욕장에서 물놀이 후 편하게 쉬어갈 수 있어요. 자연 속에서 여유를 느끼기 좋은 공간입니다.",
                 "images": [
+                  {
+                    "id": "1aa360e8-d6cb-4670-a4af-52677eb2ce15",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_essence/1776935065310-tvetqnuhxwl.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
                   {
                     "id": "c8efffc1-f2b1-4c7e-8183-4bdf901780bf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_essence/1776826699696-nyqdxmztp1l.jpg",
