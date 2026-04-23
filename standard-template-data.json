@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-04-23T05:22:56.628Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-23T05:32:53.266Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -1355,15 +1355,15 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "887ee31e-18e1-4563-ad1a-f470d5880f37",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1776827470009-iu89v0i3bsj.jpg",
+                    "id": "5e629b85-9e3d-4c4b-9c9e-a732b2f6db36",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1776827470009-39gfnpkrm88.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "5e629b85-9e3d-4c4b-9c9e-a732b2f6db36",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1776827470009-39gfnpkrm88.jpg",
+                    "id": "887ee31e-18e1-4563-ad1a-f470d5880f37",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1776827470009-iu89v0i3bsj.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
@@ -1371,8 +1371,8 @@
                 ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": "🚌 양양종합버스터미널 하차후,\n시내버스 (낙산/물치 방향)\n또는 택시 약 10~15분 이동"
               }
             }
           ]
@@ -1386,6 +1386,13 @@
                   {
                     "id": "33783c0e-9c57-4fa7-8a0c-70e92a6a7832",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776827470008-wuqsxh2olv.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c1c49f12-18fe-4227-9170-e3c30e9ca8d7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776922367219-84kvalklble.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -1414,7 +1421,38 @@
                 ],
                 "description": "오션뷰와 마운틴뷰 객실에서 취향에 맞는 풍경을 즐기고, \n바로 앞 물치해수욕장에서 물놀이 후 편하게 쉬어갈 수 있어요. \n자연 속에서 여유를 느끼기 좋은 공간입니다."
               },
-              "about": []
+              "about": [
+                {
+                  "title": "반려견 동반 객실",
+                  "images": [
+                    {
+                      "id": "ace58b83-ae71-47ed-918c-9cb4f1bb1ef4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_about/1776921963346-230xspeg7h5.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "48dd3a27-1679-4c81-9987-5df62c7ac062"
+                    }
+                  ],
+                  "blockId": "48dd3a27-1679-4c81-9987-5df62c7ac062",
+                  "description": "반려견 동반 객실이 준비되어 있어\n사랑하는 반려견과 함께 편안한 시간을 보내고,\n소중한 추억을 만들어가는 힐링 펜션입니다."
+                },
+                {
+                  "title": "바로 앞 물치해수욕장",
+                  "images": [
+                    {
+                      "id": "774d4e82-95d0-4e50-b9df-d7c611744e78",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_about/1776922062827-u54bds27v5i.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2a02ef9e-5762-4fa2-8670-184df51fd2b0"
+                    }
+                  ],
+                  "blockId": "2a02ef9e-5762-4fa2-8670-184df51fd2b0",
+                  "description": "해변가에 위치해 바로 앞 물치해수욕장을 편하게 즐길 수 있고,\n낙산사와 낙산해수욕장 등 주요 관광지와도 가까워 이동이 편리해요.\n바다와 여행을 함께 누리기 좋은 최적의 위치를 자랑합니다."
+                }
+              ]
             }
           ]
         },
