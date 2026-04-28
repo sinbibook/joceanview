@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-04-28T05:10:35.934Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-04-28T05:21:13.065Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -1379,7 +1379,7 @@
               },
               "notice": {
                 "title": " ",
-                "description": "🚌 속초버스터미널 하차후,\n물치해수욕장 하차 (버스 20분)\n또는 택시 약 10분 이동\n\n🚌 양양종합버스터미널 하차후,\n시내버스 (낙산/물치 방향)\n또는 택시 약 10~15분 이동"
+                "description": "🚌 속초 고속버스터미널 하차후,\n물치해수욕장 하차 (버스 20분)\n또는 택시 약 10분 이동\n\n🚌 양양 종합버스터미널 하차후,\n시내버스 (낙산/물치 방향)\n또는 택시 약 10~15분 이동"
               }
             }
           ]
