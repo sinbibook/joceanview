@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-04-28T01:18:56.792Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-04-28T02:12:31.074Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -513,8 +513,8 @@
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\n",
       "usageGuide": "",
       "group": null,
-      "size": 33.06,
-      "sizePyeong": 10,
+      "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -566,7 +566,7 @@
       ],
       "displayOrder": 5,
       "createdAt": "2026-04-09T03:15:14.678Z",
-      "updatedAt": "2026-04-22T03:14:20.329Z",
+      "updatedAt": "2026-04-28T02:12:07.934Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
       "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
@@ -580,8 +580,8 @@
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
-      "size": 33.06,
-      "sizePyeong": 10,
+      "size": 26.45,
+      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -633,7 +633,7 @@
       ],
       "displayOrder": 6,
       "createdAt": "2026-04-09T03:15:14.659Z",
-      "updatedAt": "2026-04-22T03:15:09.688Z",
+      "updatedAt": "2026-04-28T02:12:19.244Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
       "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
