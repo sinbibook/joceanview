@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-28T05:21:13.065Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-04-28T05:31:37.908Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -70,7 +70,7 @@
         "id": "0ea2905f-ded9-4b27-8d64-ada801c85bdc",
         "name": "무료조식",
         "description": "간단한 아침을 즐겨보세요 ! ",
-        "usageGuide": "- 이용시간  : 무관\n- 커피, 빵, 스낵 제공 ",
+        "usageGuide": "- 이용시간  : 오전 8시30분 ~ 오전 10시까지\n- 커피, 빵, 스낵 제공 ",
         "displayOrder": 149,
         "images": [
           {
