@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-04-28T06:14:25.334Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-05-11T01:48:21.399811945Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -26,12 +26,12 @@
     "city": "양양군",
     "domain": "joceanview.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11708",
-    "ybsId": "",
-    "amenities": [],
+    "ybsId": "80156",
+    "amenities": [ ],
     "nearbyAttractions": [
       "해변"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "오션뷰",
       "반려동물동반"
@@ -48,7 +48,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "슥박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -74,25 +75,28 @@
         "displayOrder": 149,
         "images": [
           {
-            "id": "228df240-5cb6-43f5-93a4-d9cdea51a5ad",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ea2905f-ded9-4b27-8d64-ada801c85bdc/main/1776828195714-orzo3n3ziv.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "26937474-08c8-4495-900b-47a27e7dceda",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ea2905f-ded9-4b27-8d64-ada801c85bdc/main/1776828195714-tyoip4vn3n.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "056c008b-38b2-4eb1-91c9-d5af9cbaed75",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ea2905f-ded9-4b27-8d64-ada801c85bdc/main/1777337523968-2ebusikzzk7.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "228df240-5cb6-43f5-93a4-d9cdea51a5ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ea2905f-ded9-4b27-8d64-ada801c85bdc/main/1776828195714-orzo3n3ziv.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -104,25 +108,28 @@
         "displayOrder": 150,
         "images": [
           {
+            "id": "0b936e19-0710-4e3e-a8a3-31998058fe98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c889249c-df3f-438e-a168-07a51161937d/main/1776828196940-6v0mdexk3lt.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "79c79036-877c-4266-99ee-182c6a397139",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c889249c-df3f-438e-a168-07a51161937d/main/1776828196940-uv9sniia2lm.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "21fbe594-336b-47fe-a01c-c96e33054689",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c889249c-df3f-438e-a168-07a51161937d/main/1776828196940-e5bdslfgy9f.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0b936e19-0710-4e3e-a8a3-31998058fe98",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c889249c-df3f-438e-a168-07a51161937d/main/1776828196940-6v0mdexk3lt.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -182,71 +189,74 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/thumbnail/1776828226624-je17assordg.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
+          {
+            "id": "e4b70080-86ee-4fe0-833a-0f990bba3c53",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-m2h9rgw963q.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "02404468-b353-4217-bcf6-033145cff0c6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-5y55omin0vq.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e469d872-6839-4264-ba6f-d754072d3931",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-3uu9remnwdy.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e81e48cb-b410-433d-870f-ccf227072759",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-qf0n2b7gxyh.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9bc02293-6a90-4111-b63d-8aefdf013270",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-p06b3fvbmjk.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "3d539429-2895-4c3b-8388-bbcdbb4fddf0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-ndcoby68dyf.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "e4b70080-86ee-4fe0-833a-0f990bba3c53",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-m2h9rgw963q.jpg",
-            "sortOrder": 1,
+            "id": "9bc02293-6a90-4111-b63d-8aefdf013270",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-p06b3fvbmjk.jpg",
+            "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e81e48cb-b410-433d-870f-ccf227072759",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-qf0n2b7gxyh.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e469d872-6839-4264-ba6f-d754072d3931",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-3uu9remnwdy.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ]
   },
   "rooms": [
     {
       "id": "71b4944c-8cd9-4b66-917b-b2e932144f94",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "201 (오션뷰, 애견동반)",
-      "nameEn": "201 (Ocean View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -255,17 +265,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -288,32 +287,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-09T03:15:14.594Z",
-      "updatedAt": "2026-04-22T03:08:18.764Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "eb98c0f4-83ba-4104-8357-b14eeaf00cbb",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "202 (오션뷰, 애견동반)",
-      "nameEn": "202 (Ocean View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -322,17 +323,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -355,32 +345,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-09T03:15:14.686Z",
-      "updatedAt": "2026-04-22T03:10:15.342Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "fbdb8b8f-d6fa-445e-8eb9-9ecbec37c8d0",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "203 (오션뷰, 애견동반)",
-      "nameEn": "203 (Ocean View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -389,17 +381,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -422,32 +403,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-09T03:15:14.763Z",
-      "updatedAt": "2026-04-22T03:11:34.219Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     },
     {
       "id": "8af6f23a-0068-4df6-bd1f-72f7b7b7c2c0",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "205 (마운틴뷰, 애견동반)",
-      "nameEn": "205 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -456,17 +439,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -489,32 +461,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-09T03:15:14.587Z",
-      "updatedAt": "2026-04-22T03:13:18.749Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 4
     },
     {
       "id": "9977eb01-a569-4c41-aeb8-4ada99eaf29f",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "206 (마운틴뷰, 애견동반)",
-      "nameEn": "206 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\n",
       "usageGuide": "",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -523,17 +497,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "이불"
@@ -556,32 +519,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-09T03:15:14.678Z",
-      "updatedAt": "2026-04-28T02:12:07.934Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 5
     },
     {
       "id": "aaf836ab-6317-4be1-a9af-163c83a0ec67",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "207 (마운틴뷰, 애견동반)",
-      "nameEn": "207 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -590,17 +555,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -623,32 +577,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-09T03:15:14.659Z",
-      "updatedAt": "2026-04-28T02:12:19.244Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 6
     },
     {
       "id": "a495ff2f-5529-4990-aac4-f01f52db7b02",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "301 (오션뷰, 애견동반)",
-      "nameEn": "301 (Ocean View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -657,17 +613,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -690,32 +635,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-09T03:15:14.771Z",
-      "updatedAt": "2026-04-22T03:16:10.391Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 7
     },
     {
       "id": "aee03c24-3421-4d60-837b-1ae47ebdea20",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "302 (오션뷰)",
-      "nameEn": "302 (Ocean View, No Pets Allowe)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -724,17 +671,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -757,32 +693,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-22T03:21:37.866Z",
-      "updatedAt": "2026-04-22T03:22:42.577Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 8
     },
     {
       "id": "f8e117f2-45da-4c91-b004-432f3d037d9b",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "303 (오션뷰, 애견동반)",
-      "nameEn": "303 (Ocean View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -791,17 +729,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -824,32 +751,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-22T03:21:38.017Z",
-      "updatedAt": "2026-04-22T03:21:56.156Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 9
     },
     {
       "id": "da438c4f-46ff-4707-bdf2-0615299d45b2",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "304 (오션뷰)",
-      "nameEn": "304 (Ocean View, No Pets Allowe)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -858,17 +787,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -891,32 +809,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-04-22T03:21:37.962Z",
-      "updatedAt": "2026-04-22T03:22:59.689Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 10
     },
     {
       "id": "a09b5224-17ee-4d0a-bc33-ab039f8dd30e",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "305 (마운틴뷰, 애견동반)",
-      "nameEn": "305 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -925,17 +845,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -958,32 +867,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-04-22T03:21:37.965Z",
-      "updatedAt": "2026-04-22T03:23:14.692Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 11
     },
     {
       "id": "10430279-b42d-4a76-b9e1-de53f438b580",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "306 (마운틴뷰, 애견동반)",
-      "nameEn": "306 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -992,17 +903,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1025,32 +925,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-04-22T03:21:38.002Z",
-      "updatedAt": "2026-04-22T03:23:38.021Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 12
     },
     {
       "id": "fbd5b825-9799-4479-b4f1-f23ed8e67573",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "307 (마운틴뷰, 애견동반)",
-      "nameEn": "307 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 33.06,
-      "sizePyeong": 10,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1059,17 +961,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1092,32 +983,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 13,
-      "createdAt": "2026-04-22T03:21:37.962Z",
-      "updatedAt": "2026-04-22T03:23:52.259Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 13
     },
     {
       "id": "ca0eb40a-9cfb-480b-9054-6bdea1181b89",
-      "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-      "propertyName": "양양 제이오션뷰",
       "name": "308 (마운틴뷰, 애견동반)",
-      "nameEn": "308 (Mountain View, Pet-Friendly)",
       "description": "",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1126,17 +1019,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -1159,19 +1041,25 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "efbd0bda-ac03-496b-9a36-a0f4cf01bb78",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 14,
-      "createdAt": "2026-04-22T03:21:37.973Z",
-      "updatedAt": "2026-04-22T03:24:05.805Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 14
     }
   ],
   "homepage": {
@@ -1186,7 +1074,8 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/logo/1776912444594-00llq36ohjp3.png",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -1196,7 +1085,12 @@
       "description": "양양 바다앞의 자연속에서 여유로운 추억이 되는 양양 제이오션뷰",
       "keywords": "양양숙소,양양펜션,양양오션뷰,양양애견동반,애견동반펜션,애견동반숙소"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1210,45 +1104,51 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776824649880-erpnzntd89g.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d46087d8-693b-4c3a-8c16-e513ff5be34e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776826469407-4kdv31wqgyd.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "6cc6e800-73b4-4d10-9dbf-cd3a12ec8138",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776824649881-auubchb60id.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4871c538-36ef-4eb5-a7d3-647f9f56592a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776824649881-c82io5lq0jj.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "3ae2eab6-8082-4dd0-9d60-28e0bf2028b7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776824649881-gfm82jhuoju.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "065a683c-1c04-4c1e-9f95-ca8b12c42b36",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_hero/1776824649882-9a2ase2av8.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image"
               },
               "closing": {
@@ -1259,10 +1159,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_closing/1776826699696-03s6khwihy95.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1274,24 +1175,27 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_essence/1776935065310-tvetqnuhxwl.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c8efffc1-f2b1-4c7e-8183-4bdf901780bf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_essence/1776826699696-nyqdxmztp1l.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "61432226-378a-496f-9a27-0216b2926739",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_essence/1776826699696-6wwqezjwi2f.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "Ocean View"
               },
@@ -1303,38 +1207,43 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_gallery/1776827101090-er7ijpw71cc.jpg",
                     "sortOrder": 0,
                     "description": "오션뷰 객실",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9d311f37-0bc4-4032-ae82-ee92c27f536b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_gallery/1776827101090-djuyno4vou.jpg",
                     "sortOrder": 1,
                     "description": "물치해수욕장",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b67f6be1-091d-4dc5-a62e-85fcb8a66561",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_gallery/1776827101090-njrbbw4oyvn.jpg",
                     "sortOrder": 2,
                     "description": "물치천",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b2ff587c-ac86-4d98-8814-59d38c034ed8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_gallery/1776827228487-nsh1a78fbq.jpg",
                     "sortOrder": 3,
                     "description": "애견동반",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "15d57419-e429-4b18-8068-1e5b9022ab06",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_gallery/1776827228487-62eeoudkp63.jpg",
                     "sortOrder": 4,
                     "description": "노을스팟",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1346,10 +1255,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/index_signature/1776826699696-0daa51n4a5c.jpg",
                     "sortOrder": 0,
                     "description": "물지천따라 산책코스 힐링스팟",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image"
               }
             }
@@ -1366,14 +1276,16 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1776827470009-39gfnpkrm88.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "a4263b0f-d146-4c9a-914f-d598d357e250",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/directions_hero/1777342973051-8j6bw8pwibk.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1395,35 +1307,40 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776827470008-wuqsxh2olv.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c1c49f12-18fe-4227-9170-e3c30e9ca8d7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776922367219-84kvalklble.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "510aea80-ab5a-4fea-a1eb-51fef29ab15d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776827470009-zhjiiehn8mo.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "db0f5431-a525-4d9c-b5c9-534e38349bf8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776827470009-0j0h7jnwxpk.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0b9bd885-5938-4021-adbf-b9db3a29b6a5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/main_hero/1776827470009-srwv9h9irp8.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "오션뷰와 마운틴뷰 객실에서 취향에 맞는 풍경을 즐기고, \n바로 앞 물치해수욕장에서 물놀이 후 편하게 쉬어갈 수 있어요. \n자연 속에서 여유를 느끼기 좋은 공간입니다.\n속초시장과 이마트가 가까워 편리하고, 속초와 양양 어디든 이동하기 좋은 위치입니다."
@@ -1463,8 +1380,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1476,20 +1393,22 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/reservation_hero/1776827470009-9q8i4a24mzw.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5eb28752-f633-4f94-8491-c9ded5ac79e2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/reservation_hero/1776913410265-772aagz3px5.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": "",
-                "images": [],
+                "images": [ ],
                 "description": ""
               }
             }
@@ -1497,7 +1416,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "theme": {
         "font": {
@@ -1531,6 +1450,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1539,6 +1459,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1547,6 +1468,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1555,6 +1477,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1563,6 +1486,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1571,6 +1495,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1579,6 +1504,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
