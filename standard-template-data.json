@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-05-11T01:48:21.399811945Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-05-18T05:28:36.109708499Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -25,7 +25,7 @@
     "province": "강원특별자치도",
     "city": "양양군",
     "domain": "joceanview.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11708",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1956090691",
     "ybsId": "80156",
     "amenities": [ ],
     "nearbyAttractions": [
@@ -269,6 +269,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -327,6 +328,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -385,6 +387,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -443,6 +446,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -501,6 +505,7 @@
       "bedTypes": [
         "이불"
       ],
+      "bedConfigs": null,
       "amenities": [
         "온돌",
         "무료 WiFi",
@@ -559,6 +564,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -617,6 +623,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -675,6 +682,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -733,6 +741,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -791,6 +800,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -849,6 +859,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -907,6 +918,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -965,6 +977,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1023,6 +1036,7 @@
       "bedTypes": [
         "온돌"
       ],
+      "bedConfigs": null,
       "amenities": [
         "온돌",
         "무료 WiFi",
