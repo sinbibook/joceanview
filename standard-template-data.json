@@ -1,41 +1,45 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-06-08T01:27:30.731163084Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-06-22T02:11:53.084204403Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
   },
   "property": {
     "id": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
-    "name": "양양 제이오션뷰",
+    "name": "양양 제이오션뷰 애견동반 펜션",
     "nameEn": "Yangyang J Ocean View",
-    "description": "",
+    "description": "물치해변 가까운 위치에 있어 편리한 접근성을 가지고 있는 양양 제이오션뷰 입니다.",
     "subtitle": "",
-    "address": "강원특별자치도 양양군 강현면 동해대로 3551",
+    "address": "강원특별자치도 양양군 강현면 동해대로 3551 제이오션뷰",
     "latitude": 38.1537856352759,
     "longitude": 128.607294579823,
-    "contactPhone": "010-2228-5993",
+    "contactPhone": "",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
-    "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 반려견을 몰래 입실 하실 경우 규정 위반으로 강제퇴실조치 합니다.\n- 취사는 공용주방에서 이용 부탁드립니다. \n\n[인원추가비(1박기준/현장결제)]\n- 0세~성인 1인 20,000원\n- 추가침구 1채당 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[조식서비스]\n- 메뉴: 빵, 커피, 간단한 스낵\n- 이용 시간: 08:30~10:00\n- 이용 장소: 라운지바\n\n[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 8kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비\n\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n\n[오시는 길]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 강원 양양군 강현면 동해대로 3551\n\n[주변관광지]\n- 속초해수욕장\n- 속초중앙시장\n- 설악산\n- 낙산해수욕장\n- 낙산사\n- 송전해수욕장\n- 정암해수욕장",
-    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
+    "checkInOutInfo": "※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
+    "usageGuide": "[공지사항]\n[ 펜션 이용 안내 ]\n- 기준 인원 초과 시 추가 요금이 발생합니다. (방문객 포함 / 현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 조식이 제공되며, 상황에 따라 메뉴는 사전 고지 없이 변동될 수 있습니다.\n\n[ 반려견 입실 안내 ]\n- 반려견은 최대 2마리까지 동반 가능합니다.\n- 짖음이 심한 반려견은 입실이 제한될 수 있습니다.\n- 반려견을 객실에 혼자 두고 외출하실 경우 환불 없이 즉시 퇴실 조치됩니다.\n- 반려견 미신고 입실 적발 시 규정 위반으로 강제 퇴실 조치됩니다.\n\n[애견동반]\n[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 8kg 이하만 입실가능\n※ 반려견은 최대 2마리까지 동반 가능합니다.\n※ 애견비품은 직접 구비\n\n[조식 서비스]\n[조식서비스]\n- 메뉴: 빵, 커피, 간단한 스낵\n- 이용 시간: 08:30~10:00\n- 이용 장소: 라운지바\n\n[부대시설]\n[공용주방]\n- 이용 장소 라운지바\n- 취사가능공간\n\n[편의 및 주변 시설]\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n\n[주변관광지]\n- 속초해수욕장\n- 속초중앙시장\n- 설악산\n- 낙산해수욕장\n- 낙산사\n- 송전해수욕장\n- 정암해수욕장\n\n[교통편]\n[오시는 길]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 강원 양양군 강현면 동해대로 3551",
+    "reservationGuide": "[ 펜션 이용 안내 ]\n- 기준 인원 초과 시 추가 요금이 발생합니다. (방문객 포함 / 현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 조식이 제공되며, 상황에 따라 메뉴는 사전 고지 없이 변동될 수 있습니다.\n\n[ 반려견 입실 안내 ]\n- 반려견은 최대 2마리까지 동반 가능합니다.\n- 짖음이 심한 반려견은 입실이 제한될 수 있습니다.\n- 반려견을 객실에 혼자 두고 외출하실 경우 환불 없이 즉시 퇴실 조치됩니다.\n- 반려견 미신고 입실 적발 시 규정 위반으로 강제 퇴실 조치됩니다.",
     "province": "강원특별자치도",
     "city": "양양군",
     "domain": "joceanview.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1956090691",
     "ybsId": "80156",
-    "amenities": [ ],
+    "amenities": [
+      "흡연구역(지정장소)",
+      "공용주방시설",
+      "주차장"
+    ],
     "nearbyAttractions": [
-      "해변"
+      "해수욕장",
+      "바다(바로앞)"
     ],
-    "services": [ ],
-    "propertyThemes": [
-      "오션뷰",
-      "반려동물동반"
+    "services": [
+      "조식(무료)"
     ],
+    "propertyThemes": [ ],
     "propertyTypes": [
       "펜션"
     ],
@@ -45,9 +49,9 @@
       "representativeName": "정은미",
       "businessAddress": "강원특별자치도 양양군 강현면 동해대로 3551",
       "businessPhone": "010-2228-5993",
-      "businessEmail": "0000@naver.com",
-      "businessType": "individual",
-      "businessCategory": "슥박업",
+      "businessEmail": "",
+      "businessType": "corporate",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": "",
       "ecommerceRegistrationNumber": ""
     },
@@ -136,6 +140,10 @@
     ],
     "refundPolicies": [
       {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
         "refundProcessingDays": 9,
         "refundRate": 90
       },
@@ -178,16 +186,18 @@
     ],
     "refundSettings": {
       "customerRefundNotice": "",
-      "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
     },
     "images": [
       {
         "thumbnail": [
           {
-            "id": "84c93d5b-bb40-45bb-ae4f-c3f023b4307f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/thumbnail/1776828226624-je17assordg.jpg",
-            "sortOrder": 0,
+            "id": "d5065ef5-210e-4e1f-8284-4140a309e937",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/etlzZqS1aiPU.jpg",
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -195,49 +205,73 @@
         ],
         "exterior": [
           {
-            "id": "e4b70080-86ee-4fe0-833a-0f990bba3c53",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-m2h9rgw963q.jpg",
-            "sortOrder": 0,
+            "id": "8514155e-02ba-40b1-9060-a5bd80752e2f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/LygpZrd1zx76.jpg",
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "02404468-b353-4217-bcf6-033145cff0c6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-5y55omin0vq.jpg",
-            "sortOrder": 1,
+            "id": "f7ef7253-654d-4d7c-9c96-46fe1f65d750",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/2eLtvky0xERG.jpg",
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "3d539429-2895-4c3b-8388-bbcdbb4fddf0",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-ndcoby68dyf.jpg",
-            "sortOrder": 2,
+            "id": "b3b7279c-74ca-4da5-8d5a-062122e2a752",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/7UG4ajJw0Meg.jpg",
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9bc02293-6a90-4111-b63d-8aefdf013270",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-p06b3fvbmjk.jpg",
-            "sortOrder": 3,
+            "id": "8d75a8ab-0c4d-4eff-8be3-d3963338d5b8",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/Wlrv537NjcZQ.jpg",
+            "sortOrder": 15,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "e81e48cb-b410-433d-870f-ccf227072759",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-qf0n2b7gxyh.jpg",
-            "sortOrder": 4,
+            "id": "4707c8ba-8f3d-49a4-a03b-04255b6701a7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/7qfbLTvjMFlr.jpg",
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "e469d872-6839-4264-ba6f-d754072d3931",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e6582567-0441-4a0f-bd33-bcb1cedc24c5/exterior/1776828226625-3uu9remnwdy.jpg",
-            "sortOrder": 5,
+            "id": "9294bc6e-42d9-407b-be47-dba6abc5f45d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/xNG1Er8uHPWS.jpg",
+            "sortOrder": 17,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1942077c-5855-453a-88d0-93f1416ddba5",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/JyoEHYRAZIjB.jpg",
+            "sortOrder": 18,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5baacf7e-267c-447a-9350-97b07e630250",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/lzZK4hPTXLOy.jpg",
+            "sortOrder": 19,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b323c04f-17dc-4c41-8ad6-4c19306ced11",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/DqkfasACnWoe.jpg",
+            "sortOrder": 20,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -252,7 +286,7 @@
     {
       "id": "71b4944c-8cd9-4b66-917b-b2e932144f94",
       "name": "201 (오션뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n바다전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -269,20 +303,33 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -301,8 +348,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "9009d52b-733c-40c2-be2c-3e8bf95ac985",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/CDy64NdQXu9G.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "ad51c134-4f3b-4fa7-944f-3b5e420ce296",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/OZEf1cGm8vlR.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "5790780b-53b1-4321-b1c0-69ba5a3c05e6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/xf6dEHjXrN7W.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "0ff042b6-bab2-42d6-9fdf-1b40a17b5b92",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/9EcVgenwMX8r.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "891e717c-b3d4-46e3-ba57-f4bbd38904bc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/VbHdKeY9t8rq.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a0c84835-4115-4b7f-92a2-fbe4fc6d84c3",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/tSn4TNGY3CLH.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2975a77a-b79c-4542-8006-659ae9a93a06",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/8X5M1H3GYKBf.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -311,7 +416,7 @@
     {
       "id": "eb98c0f4-83ba-4104-8357-b14eeaf00cbb",
       "name": "202 (오션뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(킹침대1)+화장실1\r\n바다전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -326,22 +431,35 @@
         "kitchen": 0
       },
       "bedTypes": [
-        "퀸 베드"
+        "킹 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 1,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
+        "욕실용품",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -360,8 +478,58 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "8a3c435c-7df6-4c9d-90d6-e9b67288813d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/R1Bs5wIyY8ab.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "5bd18389-0308-4bd1-9db1-1a572d53b4da",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/aRkVy3UYz9cZ.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c071443c-6bfd-4ffb-b968-a502c8d6f67c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/7o4OHUGfQzRM.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fc8bec1a-9c55-4b07-aea7-bd58989ecc75",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/EQ6YksthIB3f.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "af8cdcc6-8a86-47ca-ade6-19124f0461bf",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/oJCmOkZ04RzT.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2c3e3de0-fdbf-44ee-8af0-b993b1349aaa",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/6gJ5GYi2xpmr.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -370,7 +538,7 @@
     {
       "id": "fbdb8b8f-d6fa-445e-8eb9-9ecbec37c8d0",
       "name": "203 (오션뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n바다전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -387,20 +555,32 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -419,8 +599,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "079dff9f-31a2-4014-94fa-506168b75ef8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/LD8MRXcBpHEy.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "dfc42f5c-ca98-4453-98e3-c26f57050e5b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/W091eYicP8BL.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "14e2409b-f4f0-4f56-90b7-a4fa6a78afc8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/FWuLz5d9AxHw.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "966d3d29-a14b-4e7c-b7f6-ec42d65f1903",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/ZWvTIwUdYcQ6.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e3be7df9-66c4-4e77-9167-cc6541bc35e2",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/L9FYyW0qbKeg.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c87ce352-9ece-4669-91f1-e2f444a4b96a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/axeVg2INOiwP.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "0984dd1f-8481-49ed-815f-3b42f23e8143",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/GSWkj8FwKNAE.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -429,7 +667,7 @@
     {
       "id": "8af6f23a-0068-4df6-bd1f-72f7b7b7c2c0",
       "name": "205 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n산전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -446,17 +684,30 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -478,8 +729,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "421b07eb-5c40-4c38-9bd3-4675439295c5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/hS3KyBe8AiVE.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "7a214a12-37be-4bdb-b0bd-4d6ffe9fd587",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/zCHSNfn36UcD.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "96d65158-d07d-46a7-b2f3-29ae6fa436a0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/dZcEnIFUYXth.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b5cda119-8fb4-493c-9dc9-e1df98b66be4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/jeQcVJNrqpLb.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4e8477c6-731a-4a08-9e9d-cb3c4ce19b71",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/VExW8CzHKOYN.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ebcd393b-e5ba-468d-967f-bf52858c9acd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/jidHTkl4sQXw.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4eb4fffe-b3f5-4087-b039-d547c66d0efc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/QBKdHRVcXq9k.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -488,7 +797,7 @@
     {
       "id": "9977eb01-a569-4c41-aeb8-4ada99eaf29f",
       "name": "206 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\r\n산전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\n",
       "usageGuide": "",
       "group": null,
@@ -503,19 +812,32 @@
         "kitchen": 0
       },
       "bedTypes": [
-        "이불"
+        "바닥침구"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 2
+          }
+        }
+      ],
       "amenities": [
-        "온돌",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -537,8 +859,58 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "f836c0f5-faa1-4bde-8330-01e634eb4b74",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/QwDjf4WIqk8h.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "b0df4423-3692-4ed6-a29a-292ee62b442b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/mtvTOUeGRF5h.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "870c645e-0125-4b2b-96a7-50be1b8b7809",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/OwBtEJFmTZPn.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "9600b3c1-ac92-4fca-9ba3-d528ad1b099c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/4GtUCKhFMrJd.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "664eec38-d051-455f-af66-1beca2947f24",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/NVfdIFYECXzc.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "feed1da6-69ef-47a1-8f90-238b0d514fef",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/yt4c2dH1rWun.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -547,7 +919,7 @@
     {
       "id": "aaf836ab-6317-4be1-a9af-163c83a0ec67",
       "name": "207 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n산전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -564,17 +936,30 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "2인실",
+        "에어컨"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -596,8 +981,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "044b22a2-9114-42c4-8124-8b79135d9214",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/jh4URnBXSmaq.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "8c1a0832-bbce-4921-87a7-00bfa85aa045",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/jTDoCBEKclmH.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "81c82f1e-30db-4080-bbcb-aa0d9a8095c8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/7SHGyUNp8iAe.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "605045b1-211a-4e96-a594-b33eea425333",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/iWAo5dEZNQbz.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7f7eae56-749e-446b-9c01-69478f047433",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/cA2oSPbGxnE9.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1217e9db-c1c5-489e-a2d1-2f4b8242e511",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/ADr1lHa0Sw2z.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fe587b89-11ae-4d6a-a850-9d522e7eec36",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/7VulCrS6PfOF.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -606,7 +1049,7 @@
     {
       "id": "a495ff2f-5529-4990-aac4-f01f52db7b02",
       "name": "301 (오션뷰, 애견x)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n바다전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -623,20 +1066,33 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
+        "2인실",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -655,8 +1111,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "8c226e37-4cde-47cf-b12b-e3e7c988ff5b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/4VWvErLaJciY.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "c0fb2722-6b1e-42ed-9cec-09285c584475",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/BAWLz1oy4bmh.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e3f7f1e3-88fc-458c-ac13-a09b649b59b6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/c03prME2LFbe.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "9207b052-2895-461f-862d-1b3d7c505031",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/B69wrnubfCT4.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "3a9ad574-febd-435a-9bf5-5518cc51b9f6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/sbm47voE5U1K.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "dc2a1c5b-ecda-4314-8b0b-880d7fb19883",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/cNAYq8OQRZMS.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4295a8dc-8b82-4dc8-a251-4b5765ef0b12",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/uR7qAibc24Cx.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -665,7 +1179,7 @@
     {
       "id": "aee03c24-3421-4d60-837b-1ae47ebdea20",
       "name": "302 (오션뷰, 애견x)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(킹침대1)+화장실1\r\n바다전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "",
       "group": null,
@@ -680,22 +1194,35 @@
         "kitchen": 0
       },
       "bedTypes": [
-        "퀸 베드"
+        "킹 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 1,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -714,8 +1241,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "c97e7f11-557e-49b4-aa88-ba04c7162737",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/YtP0o6TpI4Ld.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "93fff2eb-e87c-4432-9d06-254dcf109732",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/8nlK4tVJ6ThX.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6f2b2734-3fb0-43ee-99c4-662064a1557e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/uEbf8Okni5Nq.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "14d92266-b017-40fe-b283-a4d14f5ab742",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/0B9rcnq6WwaG.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "23a09b28-047c-4e2b-8bd6-239a33f40697",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/48gTLQ7MxWyJ.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "49afba03-7ead-45ab-b8c9-96a362cbc6af",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/Azedabn52Djv.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e90adaf9-ded0-4eb4-a185-9433615a2d07",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/xludagvypYjz.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -724,7 +1309,7 @@
     {
       "id": "f8e117f2-45da-4c91-b004-432f3d037d9b",
       "name": "303 (오션뷰, 애견x)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(킹침대1)+화장실1\r\n바다전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -739,22 +1324,35 @@
         "kitchen": 0
       },
       "bedTypes": [
-        "퀸 베드"
+        "킹 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 1,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
         "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -773,8 +1371,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "74a75e57-5f15-438f-bd8b-0d82f197168b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/O7Td1qJi4lUt.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "eb7f17e7-4ca7-4656-998e-3c4fe675b770",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/erxQfdCgDtRu.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "5521cc39-6ff1-4e1a-ba0d-fe1ca8560320",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/eXGhsnPSEaWD.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "11ea295e-7cd9-420b-b3fe-76706249b497",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/hxrOcJB3Yu0G.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a7a56ff4-21fe-46ad-be25-1ce47a7d0f82",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/BuxH2rGcgPIb.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "cb0c5a38-d937-4cbe-a2ca-fd82530602d6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/sdx05zUSHG91.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c336d104-9bc5-4aa3-a4c5-226ab9548dd6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/6qcIdLAuMJ82.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -783,7 +1439,7 @@
     {
       "id": "da438c4f-46ff-4707-bdf2-0615299d45b2",
       "name": "304 (오션뷰, 애견x)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(킹침대1)+화장실1\r\n바다전망, 8평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "",
       "group": null,
@@ -798,22 +1454,35 @@
         "kitchen": 0
       },
       "bedTypes": [
-        "퀸 베드"
+        "킹 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 1,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
+        "2인실",
         "에어컨",
-        "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "냉장고"
       ],
       "roomViews": [
-        "오션뷰"
+        "바다전망(씨뷰)"
       ],
       "roomStructures": [
         "원룸형"
@@ -832,8 +1501,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "76c0ecc2-41ca-40d8-aaaf-cc0af28a2fee",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/wVL2uhKpeqFz.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "14a3c1e1-4036-4655-873d-87fc2f007d3b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/sxXlj3CcM9Sh.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ff5005b8-df14-4244-adf4-7fbf33db28b9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/dxabBswXMD6S.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d897f9aa-ae1b-45fd-89fb-8773912be4c6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/4snkPfrBq5Dy.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ba53658c-6f2f-4b68-8103-38029e48d92f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/lVoeGDmpkQXb.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "bbb1edaa-42b6-493d-a3e7-451b0bb5df70",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/hQ3TsHgCWzEr.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "8ce7892a-b6b9-4a8b-a551-b2cacf9d13fc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/IawJbAMDVTNE.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -842,7 +1569,7 @@
     {
       "id": "a09b5224-17ee-4d0a-bc33-ab039f8dd30e",
       "name": "305 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n산전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -859,17 +1586,30 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -891,8 +1631,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "e49947f1-ccbb-4753-b169-4d20e63be01d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/RuXFkDn4cybS.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "338792a2-c783-44f8-a597-ae3fb0e34de7",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/VgeOsvNKzGbF.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a4fa2a1a-80fe-4353-a68d-9ff9624f4495",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/Ebw2v6CafRzk.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4747c404-260b-41b9-8b08-23c82a44eea9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/rsB3ze61mLiV.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4fe8381e-c4d2-4fe2-ad4a-0eb200b7277b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/vLGYhcu7BX9l.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a1e50028-e706-4e19-8bda-cf3de2bcddbf",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/OlHkpF4IE5yK.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "436b26d9-7f7c-494b-b3f2-d2c7abfdbd6c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/YwNFJiurlGpz.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -901,7 +1699,7 @@
     {
       "id": "10430279-b42d-4a76-b9e1-de53f438b580",
       "name": "306 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n산전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -918,17 +1716,30 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -950,8 +1761,66 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "236b55ed-07f6-4a5e-9ff5-00df1b30ad13",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/DT3Q5o29YknB.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "eb37b4d5-b14b-49ea-ad65-5cc510ca7633",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/sLDayRwOgQWS.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "8d3ec5a4-cd23-44a6-afee-be6f4531fbc8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/SkJxOM8bpe5w.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4cd4f9c2-0f4e-46ec-8b26-6e3c8811e430",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/9rteQuVMbvDW.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "bdda59a5-f63a-4aee-97f8-3f30e6b60fca",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/3yjTmiPQ4Hgq.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ed743805-e502-42e8-b339-8e78f61371f0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/Nlm3x9WqnB7h.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7f1ea569-299d-49f8-8910-4e4f118644c3",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/shFLRBa802C6.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -960,7 +1829,7 @@
     {
       "id": "fbd5b825-9799-4479-b4f1-f23ed8e67573",
       "name": "307 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\r\n산전망, 10평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+침대룸(킹침대1)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -977,17 +1846,30 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "무료 WiFi",
-        "스마트 TV",
+        "2인실",
         "에어컨",
-        "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "냉장고"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -1009,8 +1891,58 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "ffb0afae-1908-4993-b845-eedf863f0294",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/L7DR0vCIFA6q.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "6fe534d6-f6f7-4b16-ae31-26f9838688dd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/Jkcqy23Q16hE.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f4128bf0-ac78-4545-9b95-ab2ae1ca03ac",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/bVxt4Xc1RsWZ.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "0ac31e5f-3163-4dd7-a491-8e774b0852b4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/XU3ChQNO7W4T.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "05e99f0e-01b4-46a0-b2a5-92f2fe8c4b71",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/uES05i6BqcVJ.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "816ac958-674a-4821-8ece-788cedba013c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/8KaULeSrXEup.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -1019,7 +1951,7 @@
     {
       "id": "ca0eb40a-9cfb-480b-9054-6bdea1181b89",
       "name": "308 (마운틴뷰, 애견동반)",
-      "description": "",
+      "description": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\r\n산전망, 14평\r\n욕실용품,남녀공용,TV,금연,에어컨,2인실,냉장고",
       "roomInfo": "원룸형, 거실1+온돌룸(침구세트2)+화장실1\n",
       "usageGuide": "[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 301, 303, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 6kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
       "group": null,
@@ -1027,26 +1959,39 @@
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
-        "bedroom": 1,
+        "bedroom": 0,
         "bathroom": 1,
         "livingRoom": 1,
-        "ondol": 0,
+        "ondol": 1,
         "kitchen": 0
       },
       "bedTypes": [
-        "온돌"
+        "바닥침구"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 2
+          }
+        }
+      ],
       "amenities": [
-        "온돌",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
         "냉장고",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "금연"
+        "2인실",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -1068,8 +2013,74 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "22bd38fc-ef81-4450-a363-2a173be68767",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/wlihb2zpys68.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "37c38450-876a-4d77-8f85-46d48eb8a165",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/MQHJN24SLlZ9.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "6d3a2f67-87a8-406e-8937-e5ff1074992b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/ZXcheNPHTULK.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "3c1b6873-28ee-4b68-b35a-180e6f9522a9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/moXUgG18kJsQ.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "339b17f4-55a1-4b18-aaf5-c85d5ee785ee",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/yMZbqkls6oW2.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a86d5a8d-4f83-4cac-a383-6aab4c42de68",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/7GJLoVUXNqf2.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d23bd608-c57f-4e4c-81d9-1cb8fe14abbe",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/1nKHwrsSqmOG.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c0421067-0197-4fed-bc9c-652f9500f523",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/04/22/mnkt2DLY5A1i.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
@@ -1436,7 +2447,37 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "51a64b42-6e6f-496b-817a-4ff469f7faa1",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "769a2058-d883-48d7-a164-439a2dac16a4",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/popup/1782094309703-m1bxqatabw.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "51a64b42-6e6f-496b-817a-4ff469f7faa1"
+              },
+              {
+                "id": "7744c440-8223-43e1-b63e-761f94070d92",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f189cb71-9edb-40cd-be71-388e57306e32/popup/1782094309551-srw4ponkho.png",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "51a64b42-6e6f-496b-817a-4ff469f7faa1"
+              }
+            ],
+            "slider": true,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
@@ -1462,7 +2503,7 @@
         "color": null
       },
       "property": {
-        "name": "양양 제이오션뷰",
+        "name": "양양 제이오션뷰 애견동반 펜션",
         "images": [
           {
             "id": "c3878d89-9416-4766-9b34-619558b2ea20",
