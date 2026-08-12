@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-08-10T08:49:39.844100046Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-08-12T08:14:23.218595281Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "e6582567-0441-4a0f-bd33-bcb1cedc24c5",
     "homepageId": "f189cb71-9edb-40cd-be71-388e57306e32"
@@ -20,12 +20,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 객실 예약 후 추가 인원 또는 반려견 동반 예정인 경우, 반드시 사전에 연락해 주시기 바랍니다.예약 날짜, 객실명, 총인원을 문자로 꼭 남겨주세요.\n※ 반려견 동반 시 추가 요금이 발생합니다. 동반 가능 객실 및 이용 요금을 반드시 확인해 주시기 바랍니다.",
-    "usageGuide": "[공지사항]\n[ 펜션 이용 안내 ]\n- 기준 인원 초과 시 추가 요금이 발생합니다. (방문객 포함 / 현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 조식이 제공되며, 상황에 따라 메뉴는 사전 고지 없이 변동될 수 있습니다.\n\n[ 반려견 입실 안내 ]\n- 반려견은 최대 2마리까지 동반 가능합니다.\n- 짖음이 심한 반려견은 입실이 제한될 수 있습니다.\n- 반려견을 객실에 혼자 두고 외출하실 경우 환불 없이 즉시 퇴실 조치됩니다.\n- 반려견 미신고 입실 적발 시 규정 위반으로 강제 퇴실 조치됩니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 객실 예약 후 추가 인원 또는 반려견 동반 예정인 경우, 반드시 사전에 연락해 주시기 바랍니다.예약 날짜, 객실명, 총인원을 문자로 꼭 남겨주세요.\n※ 반려견 동반 시 추가 요금이 발생합니다. 동반 가능 객실 및 이용 요금을 반드시 확인해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 추가침구 1채당 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 객실 예약 후 추가인원은 반드시 사전에 연락해 주시기 바랍니다. 예약 날짜, 객실명, 총인원을 문자로 꼭 남겨주세요.\n\n[애견동반]\n[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 8kg 이하만 입실가능\n※ 반려견은 최대 2마리까지 동반 가능합니다.\n※ 애견비품은 직접 구비\n※ 반려견을 객실에 두고 외출할 경우 강제 퇴실 조치될 수 있으니 반드시 동반해 주시기 바랍니다.\n\n[조식 서비스]\n[조식서비스]\n- 메뉴: 빵, 커피, 간단한 스낵\n- 이용 시간: 08:30~10:00\n- 이용 장소: 라운지바\n\n[부대시설]\n[공용주방]\n- 이용 장소 라운지바\n- 취사가능공간\n\n[편의 및 주변 시설]\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n\n[주변관광지]\n- 물치해변 \n- 물치항\n- 속초해수욕장\n- 속초중앙시장\n- 설악산\n- 낙산해수욕장\n- 낙산사\n- 송전해수욕장\n- 정암해수욕장\n\n[교통편]\n- 물치 해수욕장 맞은편. 태평양 약국 건물",
+    "usageGuide": "[ 펜션 이용 안내 ]\n- 기준 인원 초과 시 추가 요금이 발생합니다. (방문객 포함 / 현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 조식이 제공되며, 상황에 따라 메뉴는 사전 고지 없이 변동될 수 있습니다.\n\n[ 반려견 입실 안내 ]\n- 반려견은 최대 2마리까지 동반 가능합니다.\n- 짖음이 심한 반려견은 입실이 제한될 수 있습니다.\n- 반려견을 객실에 혼자 두고 외출하실 경우 환불 없이 즉시 퇴실 조치됩니다.\n- 반려견 미신고 입실 적발 시 규정 위반으로 강제 퇴실 조치됩니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n※ 객실 예약 후 추가 인원 또는 반려견 동반 예정인 경우, 반드시 사전에 연락해 주시기 바랍니다.예약 날짜, 객실명, 총인원을 문자로 꼭 남겨주세요.\n※ 반려견 동반 시 추가 요금이 발생합니다. 동반 가능 객실 및 이용 요금을 반드시 확인해 주시기 바랍니다.\n\n[인원추가요금]\n- 추가침구 1채당 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n※ 객실 예약 후 추가인원은 반드시 사전에 연락해 주시기 바랍니다. 예약 날짜, 객실명, 총인원을 문자로 꼭 남겨주세요.\n\n[애견동반]\n[애견동반 가능]\n- 가능객실 : 201, 202, 203, 205, 206, 207, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 8kg 이하만 입실가능\n※ 반려견은 최대 2마리까지 동반 가능합니다.\n※ 애견비품은 직접 구비\n※ 반려견을 객실에 두고 외출할 경우 강제 퇴실 조치될 수 있으니 반드시 동반해 주시기 바랍니다.\n\n[조식 서비스]\n[조식서비스]\n- 메뉴: 빵, 커피, 간단한 스낵\n- 이용 시간: 08:30~10:00\n- 이용 장소: 라운지바\n\n[부대시설]\n[공용주방]\n- 이용 장소 라운지바\n- 취사가능공간\n\n[편의 및 주변 시설]\n[편의시설]\n- WIFI 전 객실 이용가능\n- 주차장 보유\n\n[주변관광지]\n- 물치해변 \n- 물치항\n- 속초해수욕장\n- 속초중앙시장\n- 설악산\n- 낙산해수욕장\n- 낙산사\n- 송전해수욕장\n- 정암해수욕장\n\n[교통편]\n- 물치 해수욕장 맞은편. 태평양 약국 건물",
     "reservationGuide": "[ 펜션 이용 안내 ]\n- 기준 인원 초과 시 추가 요금이 발생합니다. (방문객 포함 / 현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 조식이 제공되며, 상황에 따라 메뉴는 사전 고지 없이 변동될 수 있습니다.\n\n[ 반려견 입실 안내 ]\n- 반려견은 최대 2마리까지 동반 가능합니다.\n- 짖음이 심한 반려견은 입실이 제한될 수 있습니다.\n- 반려견을 객실에 혼자 두고 외출하실 경우 환불 없이 즉시 퇴실 조치됩니다.\n- 반려견 미신고 입실 적발 시 규정 위반으로 강제 퇴실 조치됩니다.",
     "province": "강원특별자치도",
     "city": "양양군",
     "domain": "joceanview.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1956090691",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1649459",
     "ybsId": "80156",
     "amenities": [
       "흡연구역(지정장소)",
@@ -74,7 +74,7 @@
       {
         "id": "0ea2905f-ded9-4b27-8d64-ada801c85bdc",
         "name": "무료조식",
-        "description": "간단한 아침을 즐겨보세요 ! ",
+        "description": "간단한 아침을 즐겨보세요 !",
         "usageGuide": "- 메뉴: 빵, 커피, 간단한 스낵\n- 이용 시간: 08:30~10:00\n- 이용 장소: 라운지바",
         "displayOrder": 149,
         "images": [
@@ -107,7 +107,7 @@
       {
         "id": "c889249c-df3f-438e-a168-07a51161937d",
         "name": "애견동반 가능",
-        "description": "소중한 반려견과 함께하는 특별한 시간을 즐겨보세요 ! ",
+        "description": "소중한 반려견과 함께하는 특별한 시간을 즐겨보세요 !",
         "usageGuide": "- 가능객실 : 201, 202, 203, 205, 206, 207, 305, 306, 307, 308\n- 추가요금 : 1마리당 20,000원(1박기준/현장결제)\n- 8kg 이하만 입실가능\n※ 2마리 이상 사전문의 필수\n※ 애견비품은 직접 구비",
         "displayOrder": 150,
         "images": [
@@ -197,7 +197,7 @@
           {
             "id": "d5065ef5-210e-4e1f-8284-4140a309e937",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/etlzZqS1aiPU.jpg",
-            "sortOrder": 11,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -207,7 +207,7 @@
           {
             "id": "8514155e-02ba-40b1-9060-a5bd80752e2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/LygpZrd1zx76.jpg",
-            "sortOrder": 12,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -215,7 +215,7 @@
           {
             "id": "f7ef7253-654d-4d7c-9c96-46fe1f65d750",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/2eLtvky0xERG.jpg",
-            "sortOrder": 13,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -223,7 +223,7 @@
           {
             "id": "b3b7279c-74ca-4da5-8d5a-062122e2a752",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/7UG4ajJw0Meg.jpg",
-            "sortOrder": 14,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -231,7 +231,7 @@
           {
             "id": "8d75a8ab-0c4d-4eff-8be3-d3963338d5b8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/Wlrv537NjcZQ.jpg",
-            "sortOrder": 15,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -239,7 +239,7 @@
           {
             "id": "4707c8ba-8f3d-49a4-a03b-04255b6701a7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/7qfbLTvjMFlr.jpg",
-            "sortOrder": 16,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -247,7 +247,7 @@
           {
             "id": "9294bc6e-42d9-407b-be47-dba6abc5f45d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/xNG1Er8uHPWS.jpg",
-            "sortOrder": 17,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -255,7 +255,7 @@
           {
             "id": "1942077c-5855-453a-88d0-93f1416ddba5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/JyoEHYRAZIjB.jpg",
-            "sortOrder": 18,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -263,7 +263,7 @@
           {
             "id": "5baacf7e-267c-447a-9350-97b07e630250",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/lzZK4hPTXLOy.jpg",
-            "sortOrder": 19,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -271,7 +271,7 @@
           {
             "id": "b323c04f-17dc-4c41-8ad6-4c19306ced11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/22/DqkfasACnWoe.jpg",
-            "sortOrder": 20,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
